@@ -5,6 +5,11 @@ items:
     path: retard
     process: hl2.exe
     author: some rando lol
+  - name: AOSHax
+    path: aoshax-v1
+    process: hl2.exe
+    version: 1.9
+    author: Artemking4
   - name: niggers
     path: mustard
     process: hl2.exe
