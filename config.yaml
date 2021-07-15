@@ -11,12 +11,12 @@ items:
     process: hl2.exe
     version: 1.9
     author: Artemking4
-  - name: ExecHack
+  - name: ExecHack##1
     path: ExecCrack
     process: hl2.exe
     author: Artemking4
     version: Crack
-  - name: ExecHackᅠ ᅠ
+  - name: ExecHack##2
     path: EcexHackOld
     process: hl2.exe
     author: Exec
