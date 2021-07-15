@@ -1,6 +1,6 @@
-# H1 Header: Text and Links
+# LemiGmod
 You can add [links like this one to enkisoftware](https://www.enkisoftware.com/) and lines will wrap well.
-You can also insert images ![image alt text](image identifier e.g. filename)
+You can also insert images ![image alt text](https://cdn.discordapp.com/icons/680034017604665347/69a0d236854b3d7199e8b5d8d0eb95b1.png?size=4096)
 Horizontal rules:
 ***
 ___
