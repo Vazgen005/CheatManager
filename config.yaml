@@ -5,7 +5,7 @@ items:
     path: LemiGmod
     process: hl2.exe
     author: voidptr_t
-    version: revolution
+    version: Revolution
   - name: AOSHax
     path: aoshax-v1
     process: hl2.exe
@@ -16,3 +16,8 @@ items:
     process: hl2.exe
     author: Artemking4
     version: Crack
+  - name: ExecHack
+    path: EcexHackOld
+    process: hl2.exe
+    author: Exec
+    version: Old
