@@ -1,10 +1,10 @@
 name: Test Stash
 
 items:
-  - name: bruh
-    path: retard
+  - name: LemiGmod
+    path: LemiGmod
     process: hl2.exe
-    author: some rando lol
+    author: voidptr_t
   - name: AOSHax
     path: aoshax-v1
     process: hl2.exe
