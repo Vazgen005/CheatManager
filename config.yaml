@@ -30,3 +30,8 @@ items:
     process: hl2.exe
     author: 
     version: FIX
+  - name: WittchenGmod
+    path: WittchenGmod
+    process: gmod.exe
+    author: voidptr_t
+    version: unrelease
