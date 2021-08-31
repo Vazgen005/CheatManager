@@ -6,7 +6,7 @@ button:
 items:
   - name: LemiGmod
     path: LemiGmod
-    module-link: https://github.com/Sanceilaks/LemiProject/raw/main/lemi_gmod_revolution.dll
+    module-link: https://raw.githubusercontent.com/Sanceilaks/LemiProject/main/lemi_gmod_revolution.dll
     process: hl2.exe
     author: voidptr_t
     version: Revolution
