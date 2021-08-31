@@ -1,5 +1,7 @@
 name: Cheat Loader from discord.gg/4k7UDUZV3h
-button: cum, https://www.youtube.com/
+button:
+  text: cum
+  link: https://www.youtube.com/
 
 items:
   - name: LemiGmod
