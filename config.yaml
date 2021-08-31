@@ -20,3 +20,13 @@ items:
     process: hl2.exe
     author: Artemking4
     version: Crack
+  - name: OnetapGmod
+    path: OnetapGmod
+    process: gmod.exe
+    author: KIRAT23
+    version: 
+  - name: CFF
+    path: CFF
+    process: hl2.exe
+    author: 
+    version: fix
