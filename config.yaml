@@ -18,7 +18,7 @@ items:
   - name: ExecHack
     path: ExecCrack
     process: hl2.exe
-    author: Artemking4
+    author: bitcoin
     version: Crack
   - name: OnetapGmod
     path: OnetapGmod
