@@ -1,1 +1,1 @@
-# AOSHaxV1
+# AOSHax
