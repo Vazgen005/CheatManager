@@ -10,11 +10,6 @@ items:
     process: hl2.exe
     author: voidptr_t
     version: Revolution
-  - name: AOSHax
-    path: aoshax-v1
-    process: hl2.exe
-    version: 1.9
-    author: Artemking4
   - name: ExecHack
     path: ExecCrack
     process: hl2.exe
@@ -30,8 +25,3 @@ items:
     process: hl2.exe
     author: 
     version: FIX
-  - name: WittchenGmod
-    path: WittchenGmod
-    process: gmod.exe
-    author: voidptr_t
-    version: unrelease
