@@ -10,11 +10,6 @@ items:
     process: hl2.exe
     author: voidptr_t
     version: Revolution
-  - name: ExecHack
-    path: ExecCrack
-    process: hl2.exe
-    author: bitcoin
-    version: Crack
   - name: OnetapGmod
     path: OnetapGmod
     process: gmod.exe
