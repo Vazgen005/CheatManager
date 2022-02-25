@@ -1,11 +1,9 @@
 name: Cheat Loader
 version: 1.0
 buttons:
-  - button:
-      text: Discord server
+  - text: Discord server
       link: https://discord.gg/xPrbRuCk9m
-  - button1:
-      text: cum
+  - text: cum
       link: https://discordapp.com/users/405339648416546816/
 
 items:
