@@ -1,25 +1,25 @@
 name: Cheat Loader
 version: 1.0
 buttons:
-  - text: Discord server
-      link: https://discord.gg/xPrbRuCk9m
-  - text: cum
-      link: https://discordapp.com/users/405339648416546816/
+  - text: "Discord server"
+      link: "https://discord.gg/xPrbRuCk9m"
+  - text: "cum"
+      link: "https://discordapp.com/users/405339648416546816/"
 
 items:
-  - name: LemiGmod
-      path: LemiGmod
-      module-link: https://raw.githubusercontent.com/Sanceilaks/LemiProject/main/lemi_gmod_revolution.dll
-      process: hl2.exe
-      author: voidptr_t
-      version: Revolution
-  - name: OnetapGmod
-      path: OnetapGmod
-      process: gmod.exe
-      author: voidptr_t
-      version: 
-  - name: CFF
-      path: CFF
-      process: hl2.exe
-      author: 
-      version: FIX
+  - name: "LemiGmod"
+      path: "LemiGmod"
+      module-link: "https://raw.githubusercontent.com/Sanceilaks/LemiProject/main/lemi_gmod_revolution.dll"
+      process: "hl2.exe"
+      author: "voidptr_t"
+      version: "Revolution"
+  - name: "OnetapGmod"
+      path: "OnetapGmod"
+      process: "gmod.exe"
+      author: "voidptr_t"
+      version: ""
+  - name: "CFF"
+      path: "CFF"
+      process: "hl2.exe"
+      author: ""
+      version: "FIX"
