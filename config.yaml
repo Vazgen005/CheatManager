@@ -3,6 +3,9 @@ version: 1.0
 button:
   text: Discord server
   link: https://discord.gg/xPrbRuCk9m
+button1:
+  text: cum
+  link: https://discordapp.com/users/405339648416546816/
 
 items:
   - name: LemiGmod
