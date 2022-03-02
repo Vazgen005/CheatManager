@@ -15,7 +15,7 @@ items:
   - name: OnetapGmod
     path: OnetapGmod
     process: gmod.exe
-    author: voidptr_t
+    author: KIRAT feat voidtr_t
     version: 
   - name: CFF
     path: CFF
