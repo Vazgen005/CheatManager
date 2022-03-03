@@ -15,10 +15,10 @@ items:
   - name: OnetapGmod
     path: OnetapGmod
     process: gmod.exe
-    author: KIRAT & voidtr_t
+    author: voidtr_t & KIRAT
     version: 
   - name: CFF
     path: CFF
     process: hl2.exe
-    author: 
+    author: voidtr_t & KIRAT (again)
     version: FIX
