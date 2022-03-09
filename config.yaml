@@ -20,5 +20,5 @@ items:
   - name: CFF
     path: CFF
     process: hl2.exe
-    author: voidtr_t & KIRAT (again)
+    author: voidtr_t & KIRAT
     version: FIX
