@@ -12,6 +12,11 @@ items:
     process: hl2.exe
     author: voidptr_t
     version: Revolution
+  - name: Cranium
+    path: Cranium
+    process: gmod.exe
+    author: voidtr_t & KIRAT
+    version: 
   - name: OnetapGmod
     path: OnetapGmod
     process: gmod.exe
